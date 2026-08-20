@@ -1,6 +1,30 @@
-body
-{
-    font-family: "Roboto", sans-serif;
-    color: #2E2F42;
-
+/*Globale styles*/
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: -0.02em;
+  color: #434445;
+  background: #fff;
+}
+ol,
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+  color: inhe;
+}
+button {
+  cursor: pointer;
+}
+address {
+  font-style: normal;
+}
+/*Base styles*/
+.logo {
+  font-family: 'Raleway', sans-serif;
+  line-height: 1.33;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
