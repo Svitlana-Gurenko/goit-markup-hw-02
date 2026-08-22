@@ -1,10 +1,16 @@
 .header a {
   font-style: normal;
   color: #2e2f42;
-  font-weight: 700;
+  font-weight:500;
 }
 .address a {
   font-weight: 400;
+  letter-spacing: 0.02em;
+  color:#434455;
+}
+.adress-link:hover,
+.adress-link:focus {
+  color: #404bbf;
 }
 .accent {
   color: #4d5ae5;
@@ -17,11 +23,11 @@
 .main-nav-item {
 }
 .main-nav-link {
-  font: 16px;
+  font-size: 16px;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .main-nav-link:hover,
 .main-nav-link:focus {
-    color: #404bbf;
+  color: #404bbf;
 }
