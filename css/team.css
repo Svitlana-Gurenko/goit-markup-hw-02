@@ -1,0 +1,25 @@
+.team {
+  background: #f4f4fd;
+}
+.team-title {
+}
+
+.team-list {
+  gap: 24px;
+  padding: 20px;
+
+}
+.team-item {
+  
+  background-color: #fff;
+}
+.team-ill {
+}
+.team-caption {
+  font-weight: 500;
+  font-size: 20px;
+  text-align: center;
+}
+.team-desc {
+  text-align: center;
+}
